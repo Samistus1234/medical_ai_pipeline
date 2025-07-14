@@ -7,3 +7,4 @@ sacremoses
 soundfile
 ffmpeg-python
 streamlit-shap
+matplotlib
