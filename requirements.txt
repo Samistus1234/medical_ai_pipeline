@@ -1,0 +1,9 @@
+streamlit-webrtc
+streamlit
+transformers
+torch
+Pillow
+sacremoses
+soundfile
+ffmpeg-python
+whisper @ git+https://github.com/openai/whisper.git
