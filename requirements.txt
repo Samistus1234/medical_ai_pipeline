@@ -6,3 +6,4 @@ Pillow
 sacremoses
 soundfile
 ffmpeg-python
+streamlit-shap
